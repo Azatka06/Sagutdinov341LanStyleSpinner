@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageSpinner</string>
+    <string name="change">Изменить</string>
+    <string-array name="lanSpinner">
+        <item>english</item>
+        <item>russian</item>
+    </string-array>
+    <string-array name="colorSpinner">
+        <item>черный</item>
+        <item>синий</item>
+        <item>зеленый</item>
+    </string-array>
+</resources>
